@@ -793,6 +793,16 @@ html, button {
 	width: 200px;
 }
 
+.firstScreen{
+   width:100vw;
+   height:100vh;
+   background-color: #ffffff;
+}
+
+.help{
+	top:120px;
+}
+
 /* Handle small screen resolution */
 @media screen and (max-width: 410px) {
 	.search-field-border {
